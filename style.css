@@ -1,0 +1,19 @@
+h1{
+    color:white;
+    background-color: brown;
+
+    text-align:center;
+    border: 10px beige dotted;
+
+    margin-bottom: 20px;
+    padding-top: 15px; 
+    padding-bottom: 20px;
+} 
+ .lyric{
+    background-color: burlywood;
+    border: 5px bisque solid; 
+    font-size: 40px
+}
+ #important{
+    color:rgb(240, 231, 215)
+}
